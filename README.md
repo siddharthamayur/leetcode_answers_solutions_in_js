@@ -38,12 +38,12 @@ Edit
 ## 📌 Categories
 
 ### 💡 By Difficulty
-- [Easy](./Easy/)
-- [Medium](./Medium/)
-- [Hard](./Hard/)
+- [Easy](./Category_wise/Difficulty_level/Easy/)
+- [Medium](./Category_wise/Difficulty_level/Medium/)
+- [Hard](./Category_wise/Difficulty_level/Hard/)
 
 ### 📚 All Questions
-- All problems listed in one place: [All Questions Folder](./All_Questions/)
+- All problems listed in one place: [All Questions Folder](./All_solutions/)
 
 ---
 
