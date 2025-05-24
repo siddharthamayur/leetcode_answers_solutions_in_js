@@ -83,7 +83,7 @@ This is a personal learning repository, but feel free to explore or suggest impr
 
 ## 🚀 Let’s Connect
 
-Have ideas or questions? [Open an issue](https://github.com/yourusername/leetcode-solutions-js/issues).
+Have ideas or questions? [Open an issue](https://github.com/siddharthamayur/leetcode_answers_solutions_in_js/issues).
 
 ---
 
