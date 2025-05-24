@@ -26,10 +26,7 @@ LeetCode-Solutions/
 │ └── ...
 │
 ├── All_Questions/
-│ └── 001-two-sum/
-│ ├── brute.js
-│ └── optimized.js
-│
+│ └── 1_two_sum.js
 └── README.md
 
 yaml
