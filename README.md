@@ -29,9 +29,6 @@ LeetCode-Solutions/
 │ └── 1_two_sum.js
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
